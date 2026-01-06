@@ -35,10 +35,10 @@
 
 | **Category** | **Technologies** |
 |---------------|------------------|
-| 💬 Languages | C, C++, Java, Python, PHP, JavaScript |
-| 🧩 Frameworks | React, Node.js, Flask, TailwindCSS, Android SDK |
+| 💬 Languages | C, C++, Java, Python, PHP, JavaScript, Android, Flutter |
+| 🧩 Frameworks | React, BootstrapCSS, Android SDK |
 | 🗄️ Databases | MySQL, SQLite, Firebase |
-| ⚙️ Tools & IDEs | Git, VS Code, XAMPP, Figma, Postman |
+| ⚙️ Tools & IDEs | Git, VS Code, Android Studio, XAMPP, Figma, Postman |
 | 🧭 OS Knowledge | Linux, Windows, Operating Systems (Memory Management) |
 
 ---
@@ -48,34 +48,69 @@
 <table>
 <tr>
 <td width="33%">
-  <h3 align="center">🧠 FocusGuard</h3>
+  <h3 align="center">🩸 JeevanSetu</h3>
   <p align="center">
-    <a href="https://github.com/saswatgithub17/FocusGuard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=FocusGuard&theme=radical" />
+    <a href="https://github.com/saswatgithub17/JeevanSetu">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=JeevanSetu&theme=radical" />
     </a>
-    <p align="center">AI-powered face tracking system that alerts on distraction.</p>
+    <p align="center">Blood & organ donation platform connecting donors and recipients.</p>
   </p>
 </td>
+
 <td width="33%">
-  <h3 align="center">🧩 SmartQuiz System</h3>
+  <h3 align="center">🍔 Yummzo</h3>
   <p align="center">
-    <a href="https://github.com/saswatgithub17/SmartQuiz">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=SmartQuiz&theme=radical" />
+    <a href="https://github.com/saswatgithub17/Yummzo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Yummzo&theme=radical" />
     </a>
-    <p align="center">Web quiz app with login, question bank & score analytics.</p>
+    <p align="center">Online food ordering system with restaurants & real-time orders.</p>
   </p>
 </td>
+
 <td width="33%">
-  <h3 align="center">♻️ Waste Management</h3>
+  <h3 align="center">💊 Medicine Shop Management</h3>
   <p align="center">
-    <a href="https://github.com/saswatgithub17/WasteManagement">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=WasteManagement&theme=radical" />
+    <a href="https://github.com/saswatgithub17/Medicine-Shop-Management-System">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Medicine-Shop-Management-System&theme=radical" />
     </a>
-    <p align="center">IoT-based hostel waste tracking & categorization system.</p>
+    <p align="center">Desktop-based medical store management using Java & SQL.</p>
+  </p>
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+  <h3 align="center">🛡️ CODGuard</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/CodGuard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=CodGuard&theme=radical" />
+    </a>
+    <p align="center">Cash-on-delivery fraud detection to reduce RTO losses.</p>
+  </p>
+</td>
+
+<td width="33%">
+  <h3 align="center">🌐 SafeSurf</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/SafeSurf">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=SafeSurf&theme=radical" />
+    </a>
+    <p align="center">Web safety solution to detect malicious and unsafe sites.</p>
+  </p>
+</td>
+
+<td width="33%">
+  <h3 align="center">💪 Health & Fitness Tracker</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/Health-Fitness-Tracker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Health-Fitness-Tracker&theme=radical" />
+    </a>
+    <p align="center">Tracks workouts, health metrics, and fitness goals.</p>
   </p>
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -103,10 +138,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:saswat.dwibedy@example.com">
+  <a href="mailto:saswatsumandwibedy17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/saswat-suman-dwibedy">
+  <a href="[https://linkedin.com/in/saswat-suman-dwibedy](https://www.linkedin.com/in/saswatsuman/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://saswatgithub17.github.io">
@@ -129,10 +164,9 @@
 
 ---
 
-## 💬 Quote of the Day
+## ## 💬 Quote of the Day
 
-> 🌸 *"A good developer is not the one who knows everything, but the one who keeps learning and building fearlessly."*
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 ---
 
 <p align="center">
