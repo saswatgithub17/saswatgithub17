@@ -50,7 +50,7 @@
 <td width="33%">
   <h3 align="center">🩸 JeevanSetu</h3>
   <p align="center">
-    <a href="https://github.com/saswatgithub17/JeevanSetu">
+    <a href="https://github.com/saswatgithub17/jeevansetu">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=JeevanSetu&theme=radical" />
     </a>
     <p align="center">Blood & organ donation platform connecting donors and recipients.</p>
@@ -82,7 +82,7 @@
 <td width="33%">
   <h3 align="center">🛡️ CODGuard</h3>
   <p align="center">
-    <a href="https://github.com/saswatgithub17/CodGuard">
+    <a href="https://github.com/saswatgithub17/CODGuard">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=CodGuard&theme=radical" />
     </a>
     <p align="center">Cash-on-delivery fraud detection to reduce RTO losses.</p>
@@ -102,7 +102,7 @@
 <td width="33%">
   <h3 align="center">💪 Health & Fitness Tracker</h3>
   <p align="center">
-    <a href="https://github.com/saswatgithub17/Health-Fitness-Tracker">
+    <a href="https://github.com/saswatgithub17/Health_And_Fitness_Tracker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Health-Fitness-Tracker&theme=radical" />
     </a>
     <p align="center">Tracks workouts, health metrics, and fitness goals.</p>
@@ -141,10 +141,10 @@
   <a href="mailto:saswatsumandwibedy17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="[https://linkedin.com/in/saswat-suman-dwibedy](https://www.linkedin.com/in/saswatsuman/)">
+  <a href="https://www.linkedin.com/in/saswatsuman">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://saswatgithub17.github.io">
+  <a href="https://saswatgithub17.github.io/MyPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=firefox"/>
   </a>
   <a href="https://github.com/saswatgithub17">
