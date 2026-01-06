@@ -108,21 +108,6 @@
 </table>
 
 
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saswatgithub17&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatgithub17&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatgithub17&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
