@@ -1,7 +1,3 @@
-<!-- ======================================================== -->
-<!--     ADVANCED PROFESSIONAL GITHUB PROFILE (SASWAT)        -->
-<!-- ======================================================== -->
-
 <!-- Banner Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Saswat%20Suman%20Dwibedy&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
@@ -51,7 +47,7 @@
   <h3 align="center">🩸 JeevanSetu</h3>
   <p align="center">
     <a href="https://github.com/saswatgithub17/jeevansetu">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=JeevanSetu&theme=radical" />
+      <img src="https://www.asterhospitals.in/sites/default/files/styles/optimize_images/public/2023-08/organ-donation.jpg.webp?itok=wCjYz6yU" />
     </a>
     <p align="center">Blood & organ donation platform connecting donors and recipients.</p>
   </p>
@@ -61,7 +57,7 @@
   <h3 align="center">🍔 Yummzo</h3>
   <p align="center">
     <a href="https://github.com/saswatgithub17/Yummzo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Yummzo&theme=radical" />
+      <img src="https://www.smarther.co/wp-content/uploads/2021/08/cx-1200x801.png" />
     </a>
     <p align="center">Online food ordering system with restaurants & real-time orders.</p>
   </p>
@@ -71,7 +67,7 @@
   <h3 align="center">💊 Medicine Shop Management</h3>
   <p align="center">
     <a href="https://github.com/saswatgithub17/Medicine-Shop-Management-System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Medicine-Shop-Management-System&theme=radical" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtiMnFEzhndX4ClSEUV1rBWdjYhsVCCPfgQ&s" />
     </a>
     <p align="center">Desktop-based medical store management using Java & SQL.</p>
   </p>
@@ -83,7 +79,7 @@
   <h3 align="center">🛡️ CODGuard</h3>
   <p align="center">
     <a href="https://github.com/saswatgithub17/CODGuard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=CodGuard&theme=radical" />
+      <img src="https://www.shutterstock.com/image-vector/cash-on-delivery-icon-simple-600nw-2441213059.jpg" />
     </a>
     <p align="center">Cash-on-delivery fraud detection to reduce RTO losses.</p>
   </p>
@@ -93,7 +89,7 @@
   <h3 align="center">🌐 SafeSurf</h3>
   <p align="center">
     <a href="https://github.com/saswatgithub17/SafeSurf">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=SafeSurf&theme=radical" />
+      <img src="https://www.opensourceforu.com/wp-content/uploads/2022/03/phishing-attack.jpg" />
     </a>
     <p align="center">Web safety solution to detect malicious and unsafe sites.</p>
   </p>
@@ -103,7 +99,7 @@
   <h3 align="center">💪 Health & Fitness Tracker</h3>
   <p align="center">
     <a href="https://github.com/saswatgithub17/Health_And_Fitness_Tracker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saswatgithub17&repo=Health-Fitness-Tracker&theme=radical" />
+      <img src="https://img.freepik.com/free-vector/flat-design-apps-fitness-tracker-man-running_23-2148527078.jpg?semt=ais_hybrid&w=740&q=80" />
     </a>
     <p align="center">Tracks workouts, health metrics, and fitness goals.</p>
   </p>
