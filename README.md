@@ -153,11 +153,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saswatgithub17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatgithub17&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatgithub17&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%"/>
 </p>
 
@@ -175,16 +170,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saswatgithub17/saswatgithub17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-a1qlw3x20-saswatgithub17s-projects.vercel.app/api/spotify?background_color=0d1117&border_color=7928CA" />
-  </a>
 </p>
 
 ---
