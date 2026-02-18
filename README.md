@@ -153,7 +153,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatgithub17&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saswatgithub17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatgithub17&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -183,14 +184,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saswatgithub17&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saswatgithub17&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saswatgithub17&theme=radical&utcOffset=5.5" width="32%"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saswatgithub17&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
