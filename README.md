@@ -202,6 +202,14 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saswatgithub17&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
 ## 💬 Quote of the Day
 
 <p align="center">
@@ -238,6 +246,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=120&section=footer"/>
 </p>
