@@ -182,10 +182,11 @@
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-a1qlw3x20-saswatgithub17s-projects.vercel.app/api/spotify?background_color=0d1117&border_color=7928CA" />
   </a>
 </p>
+```
 
 ---
 
