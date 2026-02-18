@@ -179,13 +179,6 @@
 
 ---
 
-## 🕐 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
@@ -205,14 +198,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saswatgithub17&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saswatgithub17&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saswatgithub17&theme=radical&utcOffset=5.5" width="32%"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saswatgithub17&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
