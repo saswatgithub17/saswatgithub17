@@ -186,7 +186,6 @@
     <img src="https://spotify-a1qlw3x20-saswatgithub17s-projects.vercel.app/api/spotify?background_color=0d1117&border_color=7928CA" />
   </a>
 </p>
-```
 
 ---
 
