@@ -1,128 +1,52 @@
-# 🚀 GitHub Profile Enhancement Guide for Saswat Suman Dwibedy
-
-Add these sections to your existing README for a more professional & fun profile!
-
----
-
-## 1. 📊 GitHub Stats + Streak (Add after Achievements section)
-
-```markdown
-## 📊 GitHub Stats
-
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saswatgithub17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatgithub17&theme=radical&hide_border=true" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Saswat%20Suman%20Dwibedy&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
+<!-- Profile Photo -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatgithub17&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%"/>
+  <img src="https://avatars.githubusercontent.com/u/171622062?v=4" width="140" height="140" style="border-radius:50%;border:3px solid #7928CA;">
 </p>
-```
 
----
-
-## 2. 🐍 Contribution Snake Animation (Super fun!)
-
-```markdown
-## 🐍 My Contribution Snake
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saswatgithub17/saswatgithub17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-```
-
-> ⚙️ **Setup:** Create a GitHub Actions workflow `.github/workflows/snake.yml` in your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-## 3. 🕒 WakaTime Coding Activity (Shows your weekly coding stats!)
-
-```markdown
-## 🕐 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!-- This auto-updates if you connect WakaTime -->
-<!--END_SECTION:waka-->
-```
-
-> ⚙️ **Setup:** 
-> 1. Create a [WakaTime](https://wakatime.com) account
-> 2. Install the WakaTime plugin in VS Code / Android Studio
-> 3. Add your WakaTime API key to GitHub Secrets as `WAKATIME_API_KEY`
-> 4. Add this workflow `.github/workflows/waka.yml`:
-> ```yaml
-> name: Waka Readme
-> on:
->   schedule:
->     - cron: '0 0 * * 1'
->   workflow_dispatch:
-> jobs:
->   update-readme:
->     name: Update Readme with Metrics
->     runs-on: ubuntu-latest
->     steps:
->       - uses: anmol098/waka-readme-stats@master
->         with:
->           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
->           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-> ```
-
----
-
-## 4. 🎵 Spotify Now Playing (Makes your profile come alive!)
-
-```markdown
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Saswat+Suman+Dwibedy;Full+Stack+Developer+%7C+Android+Learner;Exploring+AI+and+Operating+Systems;Building+Innovative+Digital+Experiences!" alt="Typing SVG" />
   </a>
 </p>
-```
-
-> ⚙️ **Setup:** Visit [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app/) → Login with Spotify → Copy your UID and paste it above.
 
 ---
 
-## 5. 📅 Activity Graph (Stunning visualization!)
-
-```markdown
-## 📈 Contribution Activity
+<h3 align="center">🚀 Tech Explorer | 💻 Full Stack Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saswatgithub17&theme=react-dark&hide_border=true&area=true" />
+  🎓 <b>B.Sc. (Hons) Computer Science</b> | Utkal University<br>
+  🌱 Currently exploring <b>Android Development</b> & <b>AI-based Applications</b><br>
+  ⚡ Motto: <i>"Code with clarity, design with simplicity, and execute with perfection."</i>
 </p>
-```
 
 ---
 
-## 6. 🏅 Skill Badges (Better organized than a table!)
+## 🎭 A Little More About Me
 
-```markdown
+<details>
+  <summary>🧩 Click to know more about me!</summary>
+  <br>
+
+  - 🔭 Currently building **Android apps powered by AI**
+  - 🌱 Learning **Machine Learning** & **Flutter Advanced UI**
+  - 👨‍💻 All my projects are available at [GitHub](https://github.com/saswatgithub17)
+  - 💬 Ask me about **Java, Python, Web Dev, Android**
+  - 📫 Reach me at **saswatsumandwibedy17@gmail.com**
+  - ⚡ Fun fact: **I debug better after midnight ☕🌙**
+  - 🎮 Hobby: Playing Chess & Solving Puzzles
+  - 🍕 Fuel: Coffee + Instant Noodles while coding
+  - 💡 Belief: *Every bug is just an undiscovered feature!*
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
@@ -133,6 +57,7 @@ Add these sections to your existing README for a more professional & fun profile
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -150,36 +75,127 @@ Add these sections to your existing README for a more professional & fun profile
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-```
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 7. 🎯 Fun Facts / About Me Collapsible Section
+## 📂 Featured Projects
 
-```markdown
-## 🎭 A Little More About Me
+<table>
+<tr>
+<td width="33%">
+  <h3 align="center">🩸 JeevanSetu</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/jeevansetu">
+      <img src="https://www.asterhospitals.in/sites/default/files/styles/optimize_images/public/2023-08/organ-donation.jpg.webp?itok=wCjYz6yU" />
+    </a>
+    <p align="center">Blood & organ donation platform connecting donors and recipients.</p>
+  </p>
+</td>
 
-<details>
-  <summary>🧩 Click to know more about me!</summary>
-  <br>
+<td width="33%">
+  <h3 align="center">🍔 Yummzo</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/Yummzo">
+      <img src="https://www.smarther.co/wp-content/uploads/2021/08/cx-1200x801.png" />
+    </a>
+    <p align="center">Online food ordering system with restaurants & real-time orders.</p>
+  </p>
+</td>
 
-  - 🔭 I'm currently working on **Android apps powered by AI**
-  - 🌱 Learning **Machine Learning** & **Flutter Advanced UI**
-  - 👨‍💻 All my projects are available at [GitHub](https://github.com/saswatgithub17)
-  - 💬 Ask me about **Java, Python, Web Dev, Android**
-  - 📫 Reach me at **saswatsumandwibedy17@gmail.com**
-  - ⚡ Fun fact: **I debug better after midnight ☕🌙**
-  - 🎮 Hobby: Playing Chess & Solving Puzzles
-  - 🍕 Fuel: Coffee + Instant Noodles while coding
+<td width="33%">
+  <h3 align="center">💊 Medicine Shop Management</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/Medicine-Shop-Management-System">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtiMnFEzhndX4ClSEUV1rBWdjYhsVCCPfgQ&s" />
+    </a>
+    <p align="center">Desktop-based medical store management using Java & SQL.</p>
+  </p>
+</td>
+</tr>
 
-</details>
-```
+<tr>
+<td width="33%">
+  <h3 align="center">🛡️ CODGuard</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/CODGuard">
+      <img src="https://www.shutterstock.com/image-vector/cash-on-delivery-icon-simple-600nw-2441213059.jpg" />
+    </a>
+    <p align="center">Cash-on-delivery fraud detection to reduce RTO losses.</p>
+  </p>
+</td>
+
+<td width="33%">
+  <h3 align="center">🌐 SafeSurf</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/SafeSurf">
+      <img src="https://www.opensourceforu.com/wp-content/uploads/2022/03/phishing-attack.jpg" />
+    </a>
+    <p align="center">Web safety solution to detect malicious and unsafe sites.</p>
+  </p>
+</td>
+
+<td width="33%">
+  <h3 align="center">💪 Health & Fitness Tracker</h3>
+  <p align="center">
+    <a href="https://github.com/saswatgithub17/Health_And_Fitness_Tracker">
+      <img src="https://img.freepik.com/free-vector/flat-design-apps-fitness-tracker-man-running_23-2148527078.jpg?semt=ais_hybrid&w=740&q=80" />
+    </a>
+    <p align="center">Tracks workouts, health metrics, and fitness goals.</p>
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 8. 🌐 3D Skill Rings / Animated Profile View (Eye-catching!)
+## 📊 GitHub Stats
 
-```markdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saswatgithub17&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatgithub17&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatgithub17&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saswatgithub17&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saswatgithub17/saswatgithub17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🕐 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
 ## 📡 Profile Metrics
 
 <p align="center">
@@ -190,6 +206,53 @@ Add these sections to your existing README for a more professional & fun profile
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saswatgithub17&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saswatgithub17&theme=radical&utcOffset=5.5" width="32%"/>
 </p>
-```
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saswatgithub17&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:saswatsumandwibedy17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saswatsuman">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://saswatgithub17.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=firefox"/>
+  </a>
+  <a href="https://github.com/saswatgithub17">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🪄 Visitor Counter & Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saswatgithub17&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/saswatgithub17?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/saswatgithub17?style=for-the-badge&logo=github"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=120&section=footer"/>
+</p>
